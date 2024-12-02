@@ -1,0 +1,3 @@
+interface ServicioEnvioFactory {
+    ServicioEnvio crearServicioEnvio();
+}
